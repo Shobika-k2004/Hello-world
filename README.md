@@ -1,2 +1,2 @@
 # Hello-world
-This repository is for practicing
+This page is to practise and contribute AI projects in Microsft student ambassder
